@@ -1,4 +1,4 @@
-# Laboratory work № 0
+# Laboratory work № 1
 
  Вариант 38
 	
